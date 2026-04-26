@@ -1,6 +1,7 @@
 # Как пользоваться
 ## Шаг первый - выгрузка
-
+![](https://github.com/safonovartem/Table-Aware-Processing/blob/master/Screenshot_6.png)
+К сожалению у меня так и не получилось сделать рабочий скрипт или exe файл. Нужно весь этот код выгрузить себе в IDE и там запустить 
 
 ## Шаг второй - перейдите на сайт с интерфейсом
 ![](https://github.com/safonovartem/Table-Aware-Processing/blob/master/Screenshot_91.png)
